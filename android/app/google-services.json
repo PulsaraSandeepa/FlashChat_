@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123240865521",
+    "firebase_url": "https://flash-chat-2f0df.firebaseio.com",
+    "project_id": "flash-chat-2f0df",
+    "storage_bucket": "flash-chat-2f0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123240865521:android:7d3f7983673a3140569350",
+        "android_client_info": {
+          "package_name": "co.pulsara.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123240865521-oq9ghr5jo77jbur7ge7ii2r2njudfdd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXkizW77VUc_7hYc7U2AAFWlCZIILMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123240865521-oq9ghr5jo77jbur7ge7ii2r2njudfdd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
